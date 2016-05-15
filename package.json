@@ -1,0 +1,25 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "My Personal resume",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrmeza514/Resume.git"
+  },
+  "author": "Juan Meza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrmeza514/Resume/issues"
+  },
+  "homepage": "https://github.com/jrmeza514/Resume#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "gulp": "^3.9.1",
+    "gulp-jade": "^1.1.0",
+    "gulp-sass": "^2.3.1"
+  }
+}
